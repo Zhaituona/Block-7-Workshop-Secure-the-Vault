@@ -18,9 +18,7 @@ const c =4*5;
 console.log(c);
 
 
-
-
-
+// create two variables and call alert method 
 
   const wholeMessage = str1 +" " + str2+ " " + str3 ;
   const value = a +b +c;
